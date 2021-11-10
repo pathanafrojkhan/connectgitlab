@@ -2,7 +2,7 @@ image: ubuntu
 
 sayHello:
    script: 
-      - echo "hi"
+      - echo "hi gitlab ci/cd"
 sayBye:
    script:
-      - echo "Bye"
+      - echo "thank you"
