@@ -1,7 +1,3 @@
-job:
+build-hello:
   script:
-    - >
-      echo "First command line
-      is split over two lines."
-
-      echo "Second command line."
+    - echo "hello world"
