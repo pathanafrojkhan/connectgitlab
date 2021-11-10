@@ -1,5 +1,3 @@
-image: ubuntu
-
 sayHello:
    script: 
       - echo "hi gitlab ci/cd"
