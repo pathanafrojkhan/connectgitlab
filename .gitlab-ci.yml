@@ -1,4 +1,8 @@
 image: ubuntu
 
-hello-test:
-    script: echo "Hello World"
+sayHello:
+   script: 
+      - echo "hi"
+sayBye:
+   script:
+      - echo "Bye"
